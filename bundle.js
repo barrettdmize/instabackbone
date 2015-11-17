@@ -1,0 +1,1 @@
+console.error("Error: Parsing file /Users/barrettmize/Ironyard/myhomework/instabackbone/main.js: Unexpected token (19:0)");
